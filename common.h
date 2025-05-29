@@ -1,4 +1,4 @@
-#infndef cmouslang_common_h
+#ifndef cmouslang_common_h
 #define cmouslang_common_h
 
 #include <stdbool.h>
